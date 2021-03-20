@@ -25,7 +25,7 @@ jobs:
       ARM_TENANT_ID: 'cf7b7886-32a6-4d81-8e73-0541b136e246'
       ARM_CLIENT_ID: 'f6bff3fd-3068-4613-b837-fb90be4dfab4'
       ARM_CLIENT_SECRET: ${{ secrets.ARM_CLIENT_SECRET }}
-      AZURE_STORAGE: 'alphaiocloudskillsterraformdemo'
+      AZURE_STORAGE: 'alphaiocsterraformdemo'
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
